@@ -1,2 +1,3 @@
-class demo{}[D
-[D[D[D[D[D[D[D
+class demo{
+
+}
